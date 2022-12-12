@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aniversário</string>
+    <string name="feliz_65_anos">Meus 65 anos!</string>
+    <string name="fotos">fotos  do aniversariante</string>
+    <string name="local">Localização da Festa: Praça das Águas dia 23 de Dezembro</string>
+    <string name="mapa">mapa do local</string>
+    <string name="botao_local">Confira o local no mapa</string>
+    <string name="autora">Desenvolvido por Erica Camila Silva Cunha</string>
+</resources>
